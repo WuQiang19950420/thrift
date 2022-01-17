@@ -1,0 +1,30 @@
+{
+  "id": "2718230",
+  "name": "thrift",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3007689",
+      "name": "身份证",
+      "font_class": "shenfenzheng",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "23191139",
+      "name": "备注",
+      "font_class": "beizhu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "23191202",
+      "name": "权限管理",
+      "font_class": "quanxianguanli",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
