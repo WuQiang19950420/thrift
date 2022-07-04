@@ -19,7 +19,7 @@ const wqRequest = new WQRequest({
       if (res.data.code === -2) {
         Toast('登录失效,正在跳转');
         setTimeout(() => {
-          window.location.href = 'https://keira.cn/m-wap';
+          window.location.href = 'https://www.shinetoola.com';
         }, 1000);
       }
       return res;
