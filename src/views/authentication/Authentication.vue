@@ -1,6 +1,6 @@
 <template>
   <main class="authen">
-    <van-nav-bar left-arrow @click-left="onClickLeft" :fixed="true" title="实名认证" :placeholder="true" />
+    <van-nav-bar left-arrow @click-left="onClickLeft" :fixed="true" title="实名认证ew" :placeholder="true" />
     <choose-step :oneStep="oneStep" :twoStep="twoStep" :threeStep="threeStep" />
     <choose-authen @changeRadio="changeRadio" v-if="isShow" />
     <component :is="component" :isFlag="isShow"></component>
